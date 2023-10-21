@@ -1,0 +1,10 @@
+changeLog
+added a mainMenu
+added a cheatsScreen
+added a settingsPage
+
+
+
+Coming soon:
+Add the ability to load in a game
+The game itself
